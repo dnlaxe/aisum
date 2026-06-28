@@ -1,0 +1,13 @@
+# Compiled binaries
+aisum
+
+# Go workspace/build files
+*.out
+*.test
+*.exe
+
+# IDE
+.vscode/
+
+# Operating system files
+.DS_Store
