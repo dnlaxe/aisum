@@ -11,14 +11,14 @@ My terminal gets messy. I want to make dumps more understandable by using AI to 
 
 1. Clone the repo:
 
-   ```
+   ```bash
    git clone https://github.com/dnlaxe/aisum.git
    cd aisum
    ```
 
 2. Build + install the binary:
 
-   ```
+   ```bash
    make install
    ```
 
